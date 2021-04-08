@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Volley-Json-Object</string>
+    <string name="btn_parse" >btn_parse</string>
+    <string name="tv">tv</string>
+</resources>
